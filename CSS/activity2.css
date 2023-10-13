@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+span{
+    color: red;
+    font-size: 22px;
+}
+
+th{
+color: yellow;
+text-decoration: underline;
+
+}
+
+hr{
+    color: gray;
+}
